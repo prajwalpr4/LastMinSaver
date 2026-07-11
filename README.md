@@ -251,8 +251,8 @@ lastminsaver/
 
 ### Step 1 — Clone the repository
 ```bash
-git clone https://github.com/prajwalpr4/Last-Minute-Life-Saver.git
-cd Last-Minute-Life-Saver
+git clone https://github.com/prajwalpr4/LastMinSaver.git
+cd LastMinSaver
 ```
 
 ### Step 2 — Install dependencies
@@ -403,10 +403,6 @@ Developed with ❤️ by **Prajwal P Raikar**
 
 <br/>
 
-*Built for the Vibe2Ship Hackathon — Turning procrastination into productive execution through autonomous AI agents.*
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-prajwalpr4-181717?style=for-the-badge&logo=github)](https://github.com/prajwalpr4/Last-Minute-Life-Saver)
+[![GitHub](https://img.shields.io/badge/GitHub-prajwalpr4-181717?style=for-the-badge&logo=github)](https://github.com/prajwalpr4/LastMinSaver)
 
 </div>

@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Poppins } from "next/font/google";
+import { Analytics } from "@vercel/analytics/react";
 import Providers from "@/components/Providers";
 import "./globals.css";
 
@@ -66,6 +67,7 @@ export default function RootLayout({
       </head>
       <body className="min-h-full flex flex-col font-sans bg-background text-foreground">
         <Providers>{children}</Providers>
+        <Analytics />
       </body>
     </html>
   );
